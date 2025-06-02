@@ -1,0 +1,6 @@
+{
+    "站名":"片吧影院",
+    "主页url":"https://www.ipianba.com/",
+    "分类url":"https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+    "分类":"电影$1#剧集$2#动漫$3#综艺$4"
+}
