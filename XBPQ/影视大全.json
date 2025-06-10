@@ -1,0 +1,8 @@
+{
+    "站名":"影视大全",
+    "主页url":"https://www.iysdq.cc/",
+    "分类url":"https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类":"电视剧$2#电影$1#动漫$4#综艺$3#短剧$5",
+    "线路数组":"#playlist&&</a>",
+    "线路标题":"data-toggle=\"tab\">&&</a>"
+}
